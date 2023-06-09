@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Add for sale app</string>
+
+    <string name="bottom_bar_item_home">Home</string>
+    <string name="bottom_bar_item_favorite">Favorites</string>
+    <string name="bottom_bar_item_user_ads">User ads</string>
+    <string name="bottom_bar_item_user_profile">Profile</string>
+</resources>
